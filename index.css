@@ -1,14 +1,14 @@
 body, ul, li, h1, h2, a{
     margin: 0;
     padding: 0;
-    font-family: tahoma;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   }
   p{
     font-size: 18px;
   }
   header{
-    background-color: #F63232;
-    padding: 20px 0;
+    background-color: #481bec;
+    padding: 10px 0;
     text-align: center;
     position: fixed;
     width: 100%;
@@ -27,7 +27,7 @@ body, ul, li, h1, h2, a{
     position: relative;
   }
   .banner img{
-    max-width: 100%;
+    width: 1000px;
   }
   nav{
     background: #F4F4F4;
@@ -121,7 +121,7 @@ body, ul, li, h1, h2, a{
     cursor: pointer;
   }
   footer{
-    background: #F63232;
+    background: #481bec;
     color: white;
     padding: 10px;
     text-align: center;
